@@ -1,8 +1,6 @@
-<!-- Optional: add a GIF here. Save it as assets/hello.gif, then remove the comment markers around this block.
 <p align="center">
-  <img src="assets/hello.gif" width="300" alt="Hello GIF">
+  <img src="assets/frieren.gif" width="380" alt="Frieren">
 </p>
--->
 
 <h1 align="center">សួស្តី, I'm Asuna 👋</h1>
 
