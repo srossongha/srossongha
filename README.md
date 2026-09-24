@@ -19,6 +19,8 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" width="160" src="assets/girl-no.gif" alt="Bocchi No">
+
 I'm **Sros Songha** (Asuna), a Computer Science freshman at the **Institute of Technology of Cambodia (ITC)** and a front-end intern.
 
 - 🎨 UI and template work is where I'm strongest
@@ -27,6 +29,8 @@ I'm **Sros Songha** (Asuna), a Computer Science freshman at the **Institute of T
 - 🧠 I learn best by building real things and debugging them myself
 
 > still young, still learning.
+
+<br clear="right" />
 
 ## 💼 Experience
 
@@ -97,16 +101,25 @@ Smaller Vue and Nuxt projects where I practice state management, components, and
 
 ## 🌱 Currently Learning
 
+<img align="right" width="190" src="assets/scared-girl.gif" alt="Bocchi panic debugging">
+
 - State management in Vue/Nuxt
 - Databases from the fundamentals
 - NestJS with MySQL
 - React and Next.js
 - Figma and UI design
 
+<br clear="right" />
+
 ## 🎮 Beyond Code
+
+<img align="right" width="170" src="assets/death-note-eating.gif" alt="L eating cake and tea">
 
 - Gamer since childhood
 - Anime fan, especially **Sword Art Online** ⚔️
+- Fueled by sweets, tea, and late-night problem-solving 🍰☕
+
+<br clear="right" />
 
 ## 📫 Let's Connect
 
@@ -116,4 +129,9 @@ I'm open to learning opportunities, collaboration, and feedback on my projects.
 - 💼 [LinkedIn](https://linkedin.com/in/sros-songha-164656419)
 - 🌐 [Portfolio](https://portfolio.sanghakh122333.workers.dev/)
 
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
+---
+
+<p align="center">
+  <img src="assets/sad-sailor-moon.gif" width="220" alt="Leaving so soon?"><br>
+  <sub>Leaving so soon? Thanks for stopping by ✨</sub>
+</p>
