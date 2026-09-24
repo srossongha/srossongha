@@ -100,10 +100,6 @@ A TypeScript app for tracking monthly spending, built to learn React and Next.js
 
 My personal site, built to show my skills and projects.
 
-### 🍳 [nuxt-recipe](https://github.com/srossongha/nuxt-recipe) · 🧮 [Calculator](https://github.com/srossongha/Calculator) · 🖼️ [landing-page](https://github.com/srossongha/landing-page)
-
-Smaller Vue and Nuxt projects where I practice state management, components, and layout.
-
 ## 🌱 Currently Learning
 
 <img align="right" width="190" src="assets/scared-girl.gif" alt="Bocchi panic debugging">
