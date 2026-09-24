@@ -58,7 +58,7 @@
 At both internships I work on front-end features with **Vue, Nuxt, and Tailwind CSS**: turning designs into responsive UI, managing state, and connecting pages to APIs.
 
 <p align="center">
-  <img src="assets/tired-programming.gif" width="500" alt="Tired Wednesday Morning"><br>
+  <img src="assets/Tired%20Wednesday%20Morning%20GIF.gif" width="500" alt="Tired Wednesday Morning"><br>
   <em>Late-night coding & internship debugging grind</em> 💻☕
 </p>
 
