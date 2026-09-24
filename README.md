@@ -48,38 +48,18 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <h2>💼 Experience</h2>
-      <table>
-        <tr>
-          <th>Role</th>
-          <th>Company</th>
-          <th>Period</th>
-        </tr>
-        <tr>
-          <td>Front-end Intern</td>
-          <td><b>T.O Group</b></td>
-          <td>Aug 2026 – Present</td>
-        </tr>
-        <tr>
-          <td>Front-end Intern</td>
-          <td><b>EKYC Solution Co., Ltd.</b></td>
-          <td>May 2026 – Aug 2026</td>
-        </tr>
-      </table>
-      <p>At both internships I work on front-end features with <b>Vue, Nuxt, and Tailwind CSS</b>: turning designs into responsive UI, managing state, and connecting pages to APIs.</p>
-      <h2>🎓 Education</h2>
-      <p>🏛️ <b>Institute of Technology of Cambodia (ITC)</b>: Computer Science (freshman)</p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/yui-k-on.gif" width="240" alt="Yui K-On Clapping">
-      <br><br>
-      <img src="assets/totoro-blink.gif" width="160" alt="Totoro Blinking">
-    </td>
-  </tr>
-</table>
+## 💼 Experience <img src="assets/yui-k-on.gif" width="38" valign="middle" alt="Yui Clapping">
+
+| Role             | Company                     | Period              |
+| ---------------- | --------------------------- | ------------------- |
+| Front-end Intern | **T.O Group**               | Aug 2026 – Present  |
+| Front-end Intern | **EKYC Solution Co., Ltd.** | May 2026 – Aug 2026 |
+
+At both internships I work on front-end features with **Vue, Nuxt, and Tailwind CSS**: turning designs into responsive UI, managing state, and connecting pages to APIs.
+
+## 🎓 Education <img src="assets/totoro-blink.gif" width="32" valign="middle" alt="Totoro">
+
+🏛️ **Institute of Technology of Cambodia (ITC)**: Computer Science (freshman)
 
 <table>
   <tr>
@@ -239,9 +219,24 @@
             <img src="https://img.shields.io/badge/Telegram-@srossangha-26A5E4?logo=telegram&logoColor=white" valign="middle" alt="Telegram @srossangha" />
           </a>
         </li>
-        <li>📧 <b>Email:</b> <a href="mailto:sanghakh122333@gmail.com">sanghakh122333@gmail.com</a></li>
-        <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/sros-songha-164656419">sros-songha-164656419</a></li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://portfolio.sanghakh122333.workers.dev/">portfolio.sanghakh122333.workers.dev</a></li>
+        <li>
+          📧 <b>Email:</b>
+          <a href="mailto:sanghakh122333@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-sanghakh122333@gmail.com-EA4335?logo=gmail&logoColor=white" valign="middle" alt="Gmail" />
+          </a>
+        </li>
+        <li>
+          💼 <b>LinkedIn:</b>
+          <a href="https://linkedin.com/in/sros-songha-164656419">
+            <img src="https://img.shields.io/badge/LinkedIn-sros--songha--164656419-0A66C2?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42NyAxLjY3IDAgMSAwIDAgMy4zNCAxLjY3IDEuNjcgMCAwIDAgMC0zLjM0WiIvPjwvc3ZnPg==" valign="middle" alt="LinkedIn" />
+          </a>
+        </li>
+        <li>
+          🌐 <b>Portfolio:</b>
+          <a href="https://portfolio.sanghakh122333.workers.dev/">
+            <img src="https://img.shields.io/badge/Portfolio-portfolio.sanghakh122333.workers.dev-4E46E5?logo=googlechrome&logoColor=white" valign="middle" alt="Portfolio" />
+          </a>
+        </li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
