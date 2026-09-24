@@ -1,29 +1,121 @@
-# Hi, I'm Asuna 👋
+<!-- Optional: add a GIF here. Save it as assets/hello.gif, then remove the comment markers around this block.
+<p align="center">
+  <img src="assets/hello.gif" width="300" alt="Hello GIF">
+</p>
+-->
 
-Front-end developer in training, building clean and simple interfaces from Cambodia 🇰🇭
+<h1 align="center">សួស្តី, I'm Asuna 👋</h1>
 
-## About
+<p align="center">
+  Front-end developer in training from Cambodia 🇰🇭<br>
+  Building clean interfaces with Vue and Nuxt, and growing into full-stack.
+</p>
 
-- 🎓 CS student at the Institute of Technology of Cambodia (ITC)
-- 💼 Front-end intern at T.O Group
-- 🌱 Learning: JavaScript logic, backend fundamentals, full-stack with Nuxt
-- 🎨 Strongest at: UI and template work
+<p align="center">
+  <a href="https://portfolio.sanghakh122333.workers.dev/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/sros-songha-164656419">LinkedIn</a> ·
+  <a href="mailto:sanghakh122333@gmail.com">Email</a>
+</p>
 
-## Tech Stack
+---
+
+## 👩‍💻 About Me
+
+I'm **Sros Songha** (Asuna), a Computer Science freshman at the **Institute of Technology of Cambodia (ITC)** and a front-end intern.
+
+- 🎨 UI and template work is where I'm strongest
+- ⚙️ I'm actively leveling up my JavaScript logic and backend concepts
+- 🌏 I care about products for Cambodian users, including Khmer-first interfaces
+- 🧠 I learn best by building real things and debugging them myself
+
+> still young, still learning.
+
+## 💼 Experience
+
+| Role             | Company                     | Period              |
+| ---------------- | --------------------------- | ------------------- |
+| Front-end Intern | **T.O Group**               | Aug 2026 – Present  |
+| Front-end Intern | **EKYC Solution Co., Ltd.** | May 2026 – Aug 2026 |
+
+At both internships I work on front-end features with Vue, Nuxt, and Tailwind CSS: turning designs into responsive UI, managing state, and connecting pages to APIs.
+
+## 🎓 Education
+
+**Institute of Technology of Cambodia (ITC)**: Computer Science (freshman)
+
+## 🛠️ Tech Stack
+
+**Front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+**Back-end and Data (learning)**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
-## Projects
+**Also exploring:** Python, Java, Pinia, shadcn-vue, GSAP, Three.js
 
-- [**Roomie**](https://sroknh.com): a room-rental platform for Cambodia, built with a small team
-- [**Personal Finance Tracker**](https://github.com/srossongha/personal-finance-tracker): a Next.js project for tracking income and expenses while I learn the framework
+## 🚀 Featured Projects
 
-## Contact
+### 🏠 [Roomie (ស្រុកខ្ញុំ)](https://sroknh.com)
 
-[Portfolio](https://portfolio.sanghakh122333.workers.dev/) · [LinkedIn](https://linkedin.com/in/sros-songha-164656419) · [Email](mailto:sanghakh122333@gmail.com)
+A room-rental platform for Cambodia, built with a team.
+
+- Nuxt + Vue front-end with shadcn-vue components and Pinia state
+- English and Khmer language support
+- Auth with Clerk, data on Supabase, deployed on Cloudflare Pages
+- My work: UI, profile view/edit, listing location, and a scientific calculator feature
+
+### 💸 [Personal Finance Tracker](https://github.com/srossongha/personal-finance-tracker)
+
+A TypeScript app for tracking monthly spending, built to learn React and Next.js coming from Vue and Nuxt.
+
+### 🌐 [Portfolio](https://portfolio.sanghakh122333.workers.dev/)
+
+My personal site, built to show my skills and projects.
+
+### 🍳 [nuxt-recipe](https://github.com/srossongha/nuxt-recipe) · 🧮 [Calculator](https://github.com/srossongha/Calculator) · 🖼️ [landing-page](https://github.com/srossongha/landing-page)
+
+Smaller Vue and Nuxt projects where I practice state management, components, and layout.
+
+## 🌱 Currently Learning
+
+- State management in Vue/Nuxt
+- Databases from the fundamentals
+- NestJS with MySQL
+- React and Next.js
+- Figma and UI design
+
+## 🎮 Beyond Code
+
+- Gamer since childhood
+- Anime fan, especially **Sword Art Online** ⚔️
+
+## 📫 Let's Connect
+
+I'm open to learning opportunities, collaboration, and feedback on my projects.
+
+- 📧 [sanghakh122333@gmail.com](mailto:sanghakh122333@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sros-songha-164656419)
+- 🌐 [Portfolio](https://portfolio.sanghakh122333.workers.dev/)
+
+<p align="center"><sub>Thanks for stopping by ✨</sub></p>
