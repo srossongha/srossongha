@@ -55,8 +55,9 @@ At both internships I work on front-end features with Vue, Nuxt, and Tailwind CS
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 **Back-end and Data (learning)**
 
@@ -65,6 +66,8 @@ At both internships I work on front-end features with Vue, Nuxt, and Tailwind CS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 
 **Tools**
 
@@ -72,7 +75,9 @@ At both internships I work on front-end features with Vue, Nuxt, and Tailwind CS
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
 **Also exploring:** Python, Java, Pinia, shadcn-vue, GSAP, Three.js
 
