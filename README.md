@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="assets/frieren.gif" width="380" alt="Frieren">
+  <img src="assets/frieren.gif" width="400" alt="Frieren Welcome">
 </p>
 
-<h1 align="center">សួស្តី, I'm Asuna 👋</h1>
+<h1 align="center">
+  <img src="assets/shinchan-wink.gif" width="34" valign="middle" alt="Shinchan Wink">
+  សួស្តី, I'm Asuna 👋
+</h1>
 
 <p align="center">
-  Front-end developer in training from Cambodia 🇰🇭<br>
+  Front-end developer in training from Cambodia 🇰🇭 <img src="assets/totoro-leaf-umbrella.gif" width="28" valign="middle" alt="Totoro"><br>
   Building clean interfaces with Vue and Nuxt, and growing into full-stack.
 </p>
 
@@ -15,9 +18,11 @@
   <a href="mailto:sanghakh122333@gmail.com">Email</a>
 </p>
 
----
+<p align="center">
+  <img src="assets/totoro-garden-divider.gif" width="340" alt="Totoro Nature Divider">
+</p>
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me <img src="assets/ayaka-chibi.gif" width="28" valign="middle" alt="Ayaka">
 
 <img align="right" width="160" src="assets/girl-no.gif" alt="Bocchi No">
 
@@ -34,6 +39,8 @@ I'm **Sros Songha** (Asuna), a Computer Science freshman at the **Institute of T
 
 ## 💼 Experience
 
+<img align="right" width="140" src="assets/yui-k-on.gif" alt="Yui K-On Clapping">
+
 | Role             | Company                     | Period              |
 | ---------------- | --------------------------- | ------------------- |
 | Front-end Intern | **T.O Group**               | Aug 2026 – Present  |
@@ -41,11 +48,19 @@ I'm **Sros Songha** (Asuna), a Computer Science freshman at the **Institute of T
 
 At both internships I work on front-end features with Vue, Nuxt, and Tailwind CSS: turning designs into responsive UI, managing state, and connecting pages to APIs.
 
+<br clear="right" />
+
 ## 🎓 Education
+
+<img align="right" width="90" src="assets/totoro-blink.gif" alt="Totoro">
 
 **Institute of Technology of Cambodia (ITC)**: Computer Science (freshman)
 
+<br clear="right" />
+
 ## 🛠️ Tech Stack
+
+<img align="right" width="180" src="assets/killua-lightning.gif" alt="Killua Godspeed">
 
 **Front-end**
 
@@ -59,7 +74,11 @@ At both internships I work on front-end features with Vue, Nuxt, and Tailwind CS
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-**Back-end and Data (learning)**
+<br clear="right" />
+
+<img align="right" width="115" src="assets/goku-kamehameha.gif" alt="Goku Kamehameha">
+
+**Back-end and Data (learning)** <img src="assets/vegito-charge.gif" width="32" valign="middle" alt="Vegito">
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -79,11 +98,19 @@ At both internships I work on front-end features with Vue, Nuxt, and Tailwind CS
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
+<br clear="right" />
+
 **Also exploring:** Python, Java, Pinia, shadcn-vue, GSAP, Three.js
+
+---
 
 ## 🚀 Featured Projects
 
+<img align="right" width="160" src="assets/chika-heart-eyes.gif" alt="Chika Heart Eyes">
+
 ### 🏠 [Roomie (ស្រុកខ្ញុំ)](https://sroknh.com)
+
+<img align="right" width="130" src="assets/shinchan-kiss.gif" alt="Shinchan Sending Love">
 
 A room-rental platform for Cambodia, built with a team.
 
@@ -92,17 +119,33 @@ A room-rental platform for Cambodia, built with a team.
 - Auth with Clerk, data on Supabase, deployed on Cloudflare Pages
 - My work: UI, profile view/edit, listing location, and a scientific calculator feature
 
+<br clear="right" />
+
 ### 💸 [Personal Finance Tracker](https://github.com/srossongha/personal-finance-tracker)
 
 A TypeScript app for tracking monthly spending, built to learn React and Next.js coming from Vue and Nuxt.
 
 ### 🌐 [Portfolio](https://portfolio.sanghakh122333.workers.dev/)
 
-My personal site, built to show my skills and projects.
+<img align="right" width="140" src="assets/ai-hoshino-stars.gif" alt="Ai Hoshino Stars">
+
+My personal site, built to show my skills, creative animations, and interactive projects.
+
+<br clear="right" />
+
+### 🍳 [nuxt-recipe](https://github.com/srossongha/nuxt-recipe) · 🧮 [Calculator](https://github.com/srossongha/Calculator) · 🖼️ [landing-page](https://github.com/srossongha/landing-page)
+
+<img align="right" width="125" src="assets/chika-dance.gif" alt="Chika Dance">
+
+Smaller Vue and Nuxt projects where I practice state management, components, and layout.
+
+<br clear="right" />
+
+---
 
 ## 🌱 Currently Learning
 
-<img align="right" width="190" src="assets/scared-girl.gif" alt="Bocchi panic debugging">
+<img align="right" width="180" src="assets/scared-girl.gif" alt="Bocchi panic debugging">
 
 - State management in Vue/Nuxt
 - Databases from the fundamentals
@@ -112,27 +155,49 @@ My personal site, built to show my skills and projects.
 
 <br clear="right" />
 
+<p align="center">
+  <img src="assets/saitama-punch.gif" width="320" alt="Saitama Bug Squashing Punch"><br>
+  <em>Knocking out bugs and errors on the first try</em> 💥
+</p>
+
+---
+
 ## 🎮 Beyond Code
 
-<img align="right" width="170" src="assets/death-note-eating.gif" alt="L eating cake and tea">
+<img align="right" width="160" src="assets/death-note-eating.gif" alt="L eating cake and tea">
 
-- Gamer since childhood
-- Anime fan, especially **Sword Art Online** ⚔️
-- Fueled by sweets, tea, and late-night problem-solving 🍰☕
+- 🎮 Gamer since childhood <img src="assets/eevee-pixel.gif" width="24" valign="middle" alt="Eevee">
+- ⚔️ Anime fan, especially **Sword Art Online**, **Cyberpunk: Edgerunners**, and **Death Note**
+- 🍰 Fueled by sweets, tea, and late-night problem-solving
 
 <br clear="right" />
 
+<p align="center">
+  <img src="assets/lucy-cyberpunk.gif" width="220" alt="Lucy Cyberpunk Edgerunners">
+</p>
+
+---
+
 ## 📫 Let's Connect
 
-I'm open to learning opportunities, collaboration, and feedback on my projects.
+<img align="right" width="170" src="assets/gon-killua-fistbump.gif" alt="Gon & Killua Teamwork">
+
+I'm open to learning opportunities, collaboration, and feedback on my projects. Let's build something awesome together!
 
 - 📧 [sanghakh122333@gmail.com](mailto:sanghakh122333@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sros-songha-164656419)
 - 🌐 [Portfolio](https://portfolio.sanghakh122333.workers.dev/)
 
----
+<br clear="right" />
 
 <p align="center">
-  <img src="assets/sad-sailor-moon.gif" width="220" alt="Leaving so soon?"><br>
+  <img src="assets/totoro-garden-divider.gif" width="340" alt="Divider">
+</p>
+
+<p align="center">
+  <img src="assets/frieren-kiss.gif" width="150" alt="Frieren Kiss">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/sad-sailor-moon.gif" width="170" alt="Leaving so soon?">
+  <br>
   <sub>Leaving so soon? Thanks for stopping by ✨</sub>
 </p>
