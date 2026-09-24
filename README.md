@@ -48,14 +48,20 @@
   </tr>
 </table>
 
-## 💼 Experience <img src="assets/yui-k-on.gif" width="38" valign="middle" alt="Yui Clapping">
+<h2 align="center">💼 Experience <img src="assets/yui-k-on.gif" width="38" valign="middle" alt="Yui Clapping"></h2>
 
-| Role             | Company                     | Period              |
-| ---------------- | --------------------------- | ------------------- |
-| Front-end Intern | **T.O Group**               | Aug 2026 – Present  |
+<div align="center">
+
+|       Role       |           Company           |       Period        |
+| :--------------: | :-------------------------: | :-----------------: |
+| Front-end Intern |        **T.O Group**        | Aug 2026 – Present  |
 | Front-end Intern | **EKYC Solution Co., Ltd.** | May 2026 – Aug 2026 |
 
-At both internships I work on front-end features with **Vue, Nuxt, and Tailwind CSS**: turning designs into responsive UI, managing state, and connecting pages to APIs.
+<p align="center">
+  At both internships I work on front-end features with <b>Vue, Nuxt, and Tailwind CSS</b>: turning designs into responsive UI, managing state, and connecting pages to APIs.
+</p>
+
+</div>
 
 <p align="center">
   <img src="assets/Tired%20Wednesday%20Morning%20GIF.gif" width="500" alt="Tired Wednesday Morning"><br>
