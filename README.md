@@ -57,6 +57,11 @@
 
 At both internships I work on front-end features with **Vue, Nuxt, and Tailwind CSS**: turning designs into responsive UI, managing state, and connecting pages to APIs.
 
+<p align="center">
+  <img src="assets/tired-programming.gif" width="500" alt="Late night debugging grind"><br>
+  <em>Late-night coding & internship debugging grind</em> 💻☕
+</p>
+
 ## 🎓 Education <img src="assets/totoro-blink.gif" width="32" valign="middle" alt="Totoro">
 
 🏛️ **Institute of Technology of Cambodia (ITC)**: Computer Science (freshman)
@@ -79,7 +84,7 @@ At both internships I work on front-end features with **Vue, Nuxt, and Tailwind 
         <img src="https://img.shields.io/badge/Pinia-FFE56C?logo=pinia&logoColor=black" alt="Pinia" />
         <img src="https://img.shields.io/badge/shadcn--vue-000000?logo=shadcnui&logoColor=white" alt="shadcn-vue" />
       </p>
-      <p><b>Back-end and Data (learning)</b> <img src="assets/vegito-charge.gif" width="36" valign="middle" alt="Vegito"></p>
+      <p><b>Back-end and Data (learning)</b></p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
@@ -150,7 +155,7 @@ At both internships I work on front-end features with **Vue, Nuxt, and Tailwind 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h2>🌱 Currently Learning</h2>
+      <h2>🌱 Currently Learning <img src="assets/vegito-charge.gif" width="36" valign="middle" alt="Vegito Powering Up"></h2>
       <ul>
         <li>📦 State management in Vue/Nuxt & React</li>
         <li>🗄️ Database architecture & fundamentals</li>
@@ -167,11 +172,8 @@ At both internships I work on front-end features with **Vue, Nuxt, and Tailwind 
 </table>
 
 <p align="center">
-  <img src="assets/tired-programming.gif" width="340" alt="Late night debugging grind">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/saitama-punch.gif" width="340" alt="Saitama Bug Squashing Punch">
-  <br>
-  <em>Late-night debugging grind vs. knocking out errors on the first try</em> 💥
+  <img src="assets/saitama-punch.gif" width="480" alt="Saitama Bug Squashing Punch"><br>
+  <em>Knocking out bugs and errors on the first try</em> 💥
 </p>
 
 <table>
@@ -212,32 +214,23 @@ At both internships I work on front-end features with **Vue, Nuxt, and Tailwind 
     <td width="60%" valign="top">
       <h2>📫 Let's Connect</h2>
       <p>I'm always open to learning opportunities, team collaboration, internship roles, and feedback on my projects. Let's connect and build something impactful together!</p>
-      <ul>
-        <li>
-          ✈️ <b>Telegram:</b>
-          <a href="https://t.me/srossangha">
-            <img src="https://img.shields.io/badge/Telegram-@srossangha-26A5E4?logo=telegram&logoColor=white" valign="middle" alt="Telegram @srossangha" />
-          </a>
-        </li>
-        <li>
-          📧 <b>Email:</b>
-          <a href="mailto:sanghakh122333@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-sanghakh122333@gmail.com-EA4335?logo=gmail&logoColor=white" valign="middle" alt="Gmail" />
-          </a>
-        </li>
-        <li>
-          💼 <b>LinkedIn:</b>
-          <a href="https://linkedin.com/in/sros-songha-164656419">
-            <img src="https://img.shields.io/badge/LinkedIn-sros--songha--164656419-0A66C2?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42NyAxLjY3IDAgMSAwIDAgMy4zNCAxLjY3IDEuNjcgMCAwIDAgMC0zLjM0WiIvPjwvc3ZnPg==" valign="middle" alt="LinkedIn" />
-          </a>
-        </li>
-        <li>
-          🌐 <b>Portfolio:</b>
-          <a href="https://portfolio.sanghakh122333.workers.dev/">
-            <img src="https://img.shields.io/badge/Portfolio-portfolio.sanghakh122333.workers.dev-4E46E5?logo=googlechrome&logoColor=white" valign="middle" alt="Portfolio" />
-          </a>
-        </li>
-      </ul>
+      <p>
+        <a href="https://t.me/srossangha" title="Telegram (@srossangha)">
+          <img src="assets/contact-telegram.svg" width="38" height="38" alt="Telegram" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="mailto:sanghakh122333@gmail.com" title="Email (sanghakh122333@gmail.com)">
+          <img src="assets/contact-email.svg" width="38" height="38" alt="Email" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://linkedin.com/in/sros-songha-164656419" title="LinkedIn (sros-songha)">
+          <img src="assets/contact-linkedin.svg" width="38" height="38" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://portfolio.sanghakh122333.workers.dev/" title="Portfolio Website">
+          <img src="assets/contact-portfolio.svg" width="38" height="38" alt="Portfolio" />
+        </a>
+      </p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/gon-killua-fistbump.gif" width="280" alt="Gon & Killua Teamwork Fistbump">
