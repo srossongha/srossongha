@@ -19,19 +19,20 @@
   <a href="https://linkedin.com/in/sros-songha-164656419">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://t.me/srossangha">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="mailto:sanghakh122333@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/totoro-garden-divider.gif" width="420" alt="Totoro Nature Divider">
-</p>
+---
 
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h2>👩‍💻 About Me <img src="assets/ayaka-chibi.gif" width="36" valign="middle" alt="Ayaka"></h2>
+      <h2>👩‍💻 About Me <img src="assets/frieren-kiss.gif" width="48" valign="middle" alt="Frieren Kiss"></h2>
       <p>I'm <b>Sros Songha</b> (Asuna), a Computer Science freshman at the <b>Institute of Technology of Cambodia (ITC)</b> and a front-end intern.</p>
       <ul>
         <li>🎨 <b>UI & Templates:</b> Where I craft clean, interactive, and responsive designs</li>
@@ -118,7 +119,7 @@
         <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
         <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" />
       </p>
-      <p><b>Also exploring:</b> Python, Java, GSAP, Three.js</p>
+      <p><b>Also exploring:</b> Python, Java, Three.js</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/killua-lightning.gif" width="260" alt="Killua Godspeed">
@@ -168,18 +169,6 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h3>🍳 <a href="https://github.com/srossongha/nuxt-recipe">nuxt-recipe</a> · 🧮 <a href="https://github.com/srossongha/Calculator">Calculator</a> · 🖼️ <a href="https://github.com/srossongha/landing-page">landing-page</a></h3>
-      <p>Smaller Vue and Nuxt projects where I practice component architecture, state management, and responsive layouts.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/chika-dance.gif" width="220" alt="Chika Dancing">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width="60%" valign="top">
       <h2>🌱 Currently Learning</h2>
       <ul>
@@ -198,33 +187,45 @@
 </table>
 
 <p align="center">
-  <img src="assets/saitama-punch.gif" width="450" alt="Saitama Bug Squashing Punch"><br>
-  <em>One-punching bugs and production errors into oblivion</em> 💥
+  <img src="assets/tired-programming.gif" width="340" alt="Late night debugging grind">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/saitama-punch.gif" width="340" alt="Saitama Bug Squashing Punch">
+  <br>
+  <em>Late-night debugging grind vs. knocking out errors on the first try</em> 💥
 </p>
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h2>🎮 Beyond Code</h2>
+    <td width="65%" valign="top">
+      <h2>🎮 Beyond Code <img src="assets/clover-sparkle.gif" width="30" valign="middle" alt="Lucky Clover"></h2>
       <ul>
-        <li>🎮 <b>Gamer since childhood</b> <img src="assets/eevee-pixel.gif" width="36" valign="middle" alt="Eevee"></li>
-        <li>⚔️ <b>Anime fan:</b> <i>Sword Art Online</i>, <i>Cyberpunk: Edgerunners</i>, <i>Death Note</i>, <i>Frieren</i>, and <i>Kaguya-sama</i></li>
-        <li>🍰 <b>Coding Fuel:</b> Sweets, bubble tea, and hyper-focused night sessions</li>
+        <li>🎮 <b>Gamer since childhood:</b> Games taught me problem-solving and patience long before I wrote code.</li>
+        <li>
+          🕹️ <b>Currently playing:</b><br>
+          <img src="https://img.shields.io/badge/Minecraft-5B8731?logo=minecraft&logoColor=white" alt="Minecraft" />
+          <img src="https://img.shields.io/badge/Elden_Ring-C5A059?logo=steam&logoColor=white" alt="Elden Ring" />
+          <img src="https://img.shields.io/badge/Black_Myth:_Wukong-C84C27?logo=steam&logoColor=white" alt="Black Myth Wukong" />
+          <img src="https://img.shields.io/badge/Hollow_Knight:_Silksong-C1322C?logo=steam&logoColor=white" alt="Hollow Knight Silksong" />
+          <img src="https://img.shields.io/badge/It_Takes_Two_(Co--op)-F44725?logo=ea&logoColor=white" alt="It Takes Two" />
+        </li>
+        <li>🏆 <b>Favorite genres:</b> Action RPG, Souls-like, Metroidvania, Sandbox & Survival, 2-Player Co-op</li>
+        <li>⚔️ <b>Anime fan:</b> <i>Sword Art Online</i> is my favorite, and Kirito is my main reference point. Also a big fan of <i>Black Clover</i>, <i>Sousou no Frieren</i>, <i>Death Note</i>, and <i>Kaguya-sama</i>.</li>
+        <li>🌙 <b>Vibe:</b> Late-night gaming sessions, co-op boss fights with friends, and hyper-focused coding flow.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img src="assets/death-note-eating.gif" width="260" alt="L eating cake and tea">
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/lucy-cyberpunk.gif" width="360" alt="Lucy Cyberpunk Edgerunners">
+  <img src="assets/asta-black-clover.gif" width="360" alt="Black Clover Asta">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/chika-dance.gif" width="240" alt="Chika Dance">
 </p>
 
-<p align="center">
-  <img src="assets/totoro-garden-divider.gif" width="420" alt="Divider">
-</p>
+---
 
 <table>
   <tr>
@@ -232,6 +233,12 @@
       <h2>📫 Let's Connect</h2>
       <p>I'm always open to learning opportunities, team collaboration, internship roles, and feedback on my projects. Let's connect and build something impactful together!</p>
       <ul>
+        <li>
+          ✈️ <b>Telegram:</b>
+          <a href="https://t.me/srossangha">
+            <img src="https://img.shields.io/badge/Telegram-@srossangha-26A5E4?logo=telegram&logoColor=white" valign="middle" alt="Telegram @srossangha" />
+          </a>
+        </li>
         <li>📧 <b>Email:</b> <a href="mailto:sanghakh122333@gmail.com">sanghakh122333@gmail.com</a></li>
         <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/sros-songha-164656419">sros-songha-164656419</a></li>
         <li>🌐 <b>Portfolio:</b> <a href="https://portfolio.sanghakh122333.workers.dev/">portfolio.sanghakh122333.workers.dev</a></li>
@@ -243,10 +250,10 @@
   </tr>
 </table>
 
+---
+
 <p align="center">
-  <img src="assets/frieren-kiss.gif" width="240" alt="Frieren Kiss">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/sad-sailor-moon.gif" width="260" alt="Leaving so soon?">
+  <img src="assets/sad-sailor-moon.gif" width="280" alt="Leaving so soon?">
   <br>
-  <sub><b>Leaving so soon? Thanks for stopping by ✨</b></sub>
+  <sub><img src="assets/clover-3d.gif" width="22" valign="middle" alt="3D Clover"> <b>Leaving so soon? Thanks for stopping by ✨</b> <img src="assets/clover-3d.gif" width="22" valign="middle" alt="3D Clover"></sub>
 </p>
