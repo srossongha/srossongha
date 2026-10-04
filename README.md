@@ -190,14 +190,6 @@
       <h2>🎮 Beyond Code <img src="assets/clover-sparkle.gif" width="30" valign="middle" alt="Lucky Clover"></h2>
       <ul>
         <li>🎮 <b>Gamer since childhood:</b> Games taught me problem-solving and patience long before I wrote code.</li>
-        <li>
-          🕹️ <b>Currently playing:</b><br>
-          <img src="https://img.shields.io/badge/Minecraft-5B8731?logo=minecraft&logoColor=white" alt="Minecraft" />
-          <img src="https://img.shields.io/badge/Elden_Ring-C5A059?logo=steam&logoColor=white" alt="Elden Ring" />
-          <img src="https://img.shields.io/badge/Black_Myth:_Wukong-C84C27?logo=steam&logoColor=white" alt="Black Myth Wukong" />
-          <img src="https://img.shields.io/badge/Hollow_Knight:_Silksong-C1322C?logo=steam&logoColor=white" alt="Hollow Knight Silksong" />
-          <img src="https://img.shields.io/badge/It_Takes_Two_(Co--op)-F44725?logo=ea&logoColor=white" alt="It Takes Two" />
-        </li>
         <li>🏆 <b>Favorite genres:</b> Action RPG, Souls-like, Metroidvania, Sandbox & Survival, 2-Player Co-op</li>
         <li>⚔️ <b>Anime fan:</b> <i>Sword Art Online</i> is my favorite, and Kirito is my main reference point. Also a big fan of <i>Black Clover</i>, <i>Sousou no Frieren</i>, <i>Death Note</i>, and <i>Kaguya-sama</i>.</li>
         <li>🌙 <b>Vibe:</b> Late-night gaming sessions, co-op boss fights with friends, and hyper-focused coding flow.</li>
