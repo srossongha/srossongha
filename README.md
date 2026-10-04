@@ -91,7 +91,7 @@
         <img src="https://img.shields.io/badge/Pinia-FFE56C?logo=pinia&logoColor=black" alt="Pinia" />
         <img src="https://img.shields.io/badge/shadcn--vue-000000?logo=shadcnui&logoColor=white" alt="shadcn-vue" />
       </p>
-      <p><b>Back-end and Data (learning)</b></p>
+      <p><b>Back-end and Data (learning)</b><img src="assets/vegito-charge.gif" width="32" align="absmiddle" alt="Vegito" /></p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
