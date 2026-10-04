@@ -82,6 +82,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" alt="Vue" />
         <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt" />
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
