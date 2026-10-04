@@ -111,7 +111,7 @@
         <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" />
         <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" alt="Railway" />
       </p>
-      <p><b>Also exploring:</b> Python, Java, Three.js</p>
+      <p><b>Also exploring:</b> Python, Java, Three.js and Tres.js blender*</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/killua-lightning.gif" width="260" alt="Killua Godspeed">
