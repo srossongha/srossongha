@@ -188,7 +188,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🎁 <a href="https://rewardos-landing-page.lywoo-sroeng.workers.dev/">RewardOS Landing Page</a></h3>
+      <h3><img src="assets/icon.png" width="28" height="28" valign="middle" alt="RewardOS icon" /> <a href="https://rewardos-landing-page.lywoo-sroeng.workers.dev/">RewardOS Landing Page</a></h3>
       <p>Modern production marketing & product landing page for <b>RewardOS</b> (customer loyalty platform), built during my internship at <b>EKYC Solution Co., Ltd.</b>.</p>
       <ul>
         <li><b>Stack:</b> Built with <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b> via OpenNext</li>
@@ -205,7 +205,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/frieren-kiss.gif" width="240" alt="Frieren Sending Kiss">
+      <img src="assets/asta-black-clover.gif" width="260" alt="Black Clover Asta">
     </td>
   </tr>
 </table>
@@ -252,7 +252,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/asta-black-clover.gif" width="360" alt="Black Clover Asta">
+  <img src="assets/killua-lightning.gif" width="340" alt="Killua Lightning">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/chika-dance.gif" width="240" alt="Chika Dance">
 </p>
