@@ -76,23 +76,32 @@
   <tr>
     <td width="65%" valign="top">
       <h2>🛠️ Tech Stack</h2>
+      <p><b>Languages</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ3LjYxNyA5OC4xMnMtNC43NjcgMi43NzQgMy4zOTcgMy43MWM5Ljg5MiAxLjEzIDE0Ljk0Ny45NjggMjUuODQ1LTEuMDkyIDAgMCAyLjg3MSAxLjc5NSA2Ljg3MyAzLjM1MS0yNC40MzkgMTAuNDctNTUuMzA4LS42MDctMzYuMTE1LTUuOTY5em0tMi45ODgtMTMuNjY1cy01LjM0OCAzLjk1OSAyLjgyMyA0LjgwNWMxMC41NjcgMS4wOTEgMTguOTEgMS4xOCAzMy4zNTQtMS42IDAgMCAxLjk5MyAyLjAyNSA1LjEzMiAzLjEzMS0yOS41NDIgOC42NC02Mi40NDYuNjgtNDEuMzA5LTYuMzM2eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNjkuODAyIDYxLjI3MWM2LjAyNSA2LjkzNS0xLjU4IDEzLjE3LTEuNTggMTMuMTdzMTUuMjg5LTcuODkxIDguMjY5LTE3Ljc3N2MtNi41NTktOS4yMTUtMTEuNTg3LTEzLjc5MiAxNS42MzUtMjkuNTggMCAuMDAxLTQyLjczMSAxMC42Ny0yMi4zMjQgMzQuMTg3eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTc2LjQ5MSAxLjU4N1M4OS40NTkgMTQuNTYzIDY0LjE4OCAzNC41MWMtMjAuMjY2IDE2LjAwNi00LjYyMSAyNS4xMy0uMDA3IDM1LjU1OS0xMS44MzEtMTAuNjczLTIwLjUwOS0yMC4wNy0xNC42ODgtMjguODE1QzU4LjA0MSAyOC40MiA4MS43MjIgMjIuMTk1IDc2LjQ5MSAxLjU4N3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUyLjIxNCAxMjYuMDIxYzIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTctMTEuNDM2IDAgMC0xLjU3MSA0LjAzMi0xOC41NzcgNy4yMzEtMTkuMTg2IDMuNjEyLTQyLjg1NCAzLjE5MS01Ni44ODcuODc0IDAgLjAwMSAyLjg3NSAyLjM4MSAxNy42NDcgMy4zMzF6Ii8+PC9zdmc+&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+      </p>
       <p><b>Front-end</b></p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4=&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" alt="Vue" />
         <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt" />
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Pinia-FFE56C?logo=pinia&logoColor=black" alt="Pinia" />
         <img src="https://img.shields.io/badge/shadcn--vue-000000?logo=shadcnui&logoColor=white" alt="shadcn-vue" />
       </p>
       <p><b>Back-end and Data (learning)</b></p>
       <p>
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Directus-6644FF?logo=directus&logoColor=white" alt="Directus" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" />
@@ -105,12 +114,14 @@
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint" />
+        <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" alt="Prettier" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
         <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
         <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" />
       </p>
-      <p><b>Also exploring:</b> Python, Java, Three.js</p>
+      <p><b>Also exploring:</b> Three.js</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/killua-lightning.gif" width="260" alt="Killua Godspeed">
@@ -188,14 +199,6 @@
       <h2>🎮 Beyond Code <img src="assets/clover-sparkle.gif" width="30" valign="middle" alt="Lucky Clover"></h2>
       <ul>
         <li>🎮 <b>Gamer since childhood:</b> Games taught me problem-solving and patience long before I wrote code.</li>
-        <li>
-          🕹️ <b>Currently playing:</b><br>
-          <img src="https://img.shields.io/badge/Minecraft-5B8731?logo=minecraft&logoColor=white" alt="Minecraft" />
-          <img src="https://img.shields.io/badge/Elden_Ring-C5A059?logo=steam&logoColor=white" alt="Elden Ring" />
-          <img src="https://img.shields.io/badge/Black_Myth:_Wukong-C84C27?logo=steam&logoColor=white" alt="Black Myth Wukong" />
-          <img src="https://img.shields.io/badge/Hollow_Knight:_Silksong-C1322C?logo=steam&logoColor=white" alt="Hollow Knight Silksong" />
-          <img src="https://img.shields.io/badge/It_Takes_Two_(Co--op)-F44725?logo=ea&logoColor=white" alt="It Takes Two" />
-        </li>
         <li>🏆 <b>Favorite genres:</b> Action RPG, Souls-like, Metroidvania, Sandbox & Survival, 2-Player Co-op</li>
         <li>⚔️ <b>Anime fan:</b> <i>Sword Art Online</i> is my favorite, and Kirito is my main reference point. Also a big fan of <i>Black Clover</i>, <i>Sousou no Frieren</i>, <i>Death Note</i>, and <i>Kaguya-sama</i>.</li>
         <li>🌙 <b>Vibe:</b> Late-night gaming sessions, co-op boss fights with friends, and hyper-focused coding flow.</li>
@@ -222,19 +225,19 @@
       <p>I'm always open to learning opportunities, team collaboration, internship roles, and feedback on my projects. Let's connect and build something impactful together!</p>
       <p>
         <a href="https://t.me/srossangha" title="Telegram (@srossangha)">
-          <img src="assets/contact-telegram.svg" width="38" height="38" alt="Telegram" />
+          <img src="assets/contact-telegram.svg" width="46" height="46" alt="Telegram" />
         </a>
         &nbsp;&nbsp;
-        <a href="mailto:sanghakh122333@gmail.com" title="Email (sanghakh122333@gmail.com)">
-          <img src="assets/contact-email.svg" width="38" height="38" alt="Email" />
+        <a href="mailto:sanghakh122333@gmail.com" title="Gmail (sanghakh122333@gmail.com)">
+          <img src="assets/contact-email.svg" width="46" height="46" alt="Gmail" />
         </a>
         &nbsp;&nbsp;
         <a href="https://linkedin.com/in/sros-songha-164656419" title="LinkedIn (sros-songha)">
-          <img src="assets/contact-linkedin.svg" width="38" height="38" alt="LinkedIn" />
+          <img src="assets/contact-linkedin.svg" width="46" height="46" alt="LinkedIn" />
         </a>
         &nbsp;&nbsp;
         <a href="https://portfolio.sanghakh122333.workers.dev/" title="Portfolio Website">
-          <img src="assets/contact-portfolio.svg" width="38" height="38" alt="Portfolio" />
+          <img src="assets/contact-portfolio.svg" width="46" height="46" alt="Portfolio" />
         </a>
       </p>
     </td>
