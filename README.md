@@ -13,18 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.sanghakh122333.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/sros-songha-164656419">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/srossangha">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:sanghakh122333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://t.me/srossangha" title="Telegram (@srossangha)"><img src="assets/contact-telegram.svg" width="44" height="44" alt="Telegram" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:sanghakh122333@gmail.com" title="Gmail (sanghakh122333@gmail.com)"><img src="assets/contact-email.svg" width="44" height="44" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sros-songha-164656419" title="LinkedIn (sros-songha)"><img src="assets/contact-linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio.sanghakh122333.workers.dev/" title="Portfolio Website"><img src="assets/contact-portfolio.svg" width="44" height="44" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -149,9 +144,7 @@
         <li><b>Contributions:</b> Mobile-first UI/UX, user profiles, and listing location mapping</li>
       </ul>
       <p>
-        <a href="https://sroknh.com">
-          <img src="https://img.shields.io/badge/Live_Site-sroknh.com-00DC82?logo=googlechrome&logoColor=white" alt="Live Site" />
-        </a>
+        <a href="https://sroknh.com"><img src="https://img.shields.io/badge/Live_Site-sroknh.com-00DC82?logo=googlechrome&logoColor=white" alt="Live Site" /></a>
         <img src="https://img.shields.io/badge/Nuxt_4-00DC82?logo=nuxt&logoColor=white" alt="Nuxt 4" />
         <img src="https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white" alt="Vue 3" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -180,12 +173,8 @@
         <li><b>Data & Security:</b> Optimistic transaction updates, CSV export, and Better Auth session security</li>
       </ul>
       <p>
-        <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-vercel.app-000000?logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/srossongha/personal-finance-tracker">
-          <img src="https://img.shields.io/badge/GitHub_Repo-personal--finance--tracker-181717?logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
+        <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-vercel.app-000000?logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/srossongha/personal-finance-tracker"><img src="https://img.shields.io/badge/GitHub_Repo-personal--finance--tracker-181717?logo=github&logoColor=white" alt="GitHub Repo" /></a>
         <img src="https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white" alt="Next.js 16" />
         <img src="https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB" alt="React 19" />
         <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
@@ -202,9 +191,7 @@
       <h3>🌐 <a href="https://portfolio.sanghakh122333.workers.dev/">Portfolio Website</a></h3>
       <p>Personal showcase site demonstrating front-end craftsmanship, responsive components, creative interactions, and project highlights.</p>
       <p>
-        <a href="https://portfolio.sanghakh122333.workers.dev/">
-          <img src="https://img.shields.io/badge/Live_Site-portfolio.sanghakh122333.workers.dev-4E46E5?logo=cloudflare&logoColor=white" alt="Portfolio Live Site" />
-        </a>
+        <a href="https://portfolio.sanghakh122333.workers.dev/"><img src="https://img.shields.io/badge/Live_Site-portfolio.sanghakh122333.workers.dev-4E46E5?logo=cloudflare&logoColor=white" alt="Portfolio Live Site" /></a>
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
         <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?logo=googlechrome&logoColor=white" alt="Responsive Design" />
       </p>
@@ -270,21 +257,13 @@
       <h2>📫 Let's Connect</h2>
       <p>I'm always open to learning opportunities, team collaboration, internship roles, and feedback on my projects. Let's connect and build something impactful together!</p>
       <p>
-        <a href="https://t.me/srossangha" title="Telegram (@srossangha)">
-          <img src="assets/contact-telegram.svg" width="46" height="46" alt="Telegram" />
-        </a>
+        <a href="https://t.me/srossangha" title="Telegram (@srossangha)"><img src="assets/contact-telegram.svg" width="46" height="46" alt="Telegram" /></a>
         &nbsp;&nbsp;
-        <a href="mailto:sanghakh122333@gmail.com" title="Gmail (sanghakh122333@gmail.com)">
-          <img src="assets/contact-email.svg" width="46" height="46" alt="Gmail" />
-        </a>
+        <a href="mailto:sanghakh122333@gmail.com" title="Gmail (sanghakh122333@gmail.com)"><img src="assets/contact-email.svg" width="46" height="46" alt="Gmail" /></a>
         &nbsp;&nbsp;
-        <a href="https://linkedin.com/in/sros-songha-164656419" title="LinkedIn (sros-songha)">
-          <img src="assets/contact-linkedin.svg" width="46" height="46" alt="LinkedIn" />
-        </a>
+        <a href="https://linkedin.com/in/sros-songha-164656419" title="LinkedIn (sros-songha)"><img src="assets/contact-linkedin.svg" width="46" height="46" alt="LinkedIn" /></a>
         &nbsp;&nbsp;
-        <a href="https://portfolio.sanghakh122333.workers.dev/" title="Portfolio Website">
-          <img src="assets/contact-portfolio.svg" width="46" height="46" alt="Portfolio" />
-        </a>
+        <a href="https://portfolio.sanghakh122333.workers.dev/" title="Portfolio Website"><img src="assets/contact-portfolio.svg" width="46" height="46" alt="Portfolio" /></a>
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
