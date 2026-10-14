@@ -144,12 +144,9 @@
       <h3><img src="assets/roomie_icon.png" width="28" valign="middle" alt="Roomie icon" /> <a href="https://sroknh.com">Roomie (ស្រុកខ្ញុំ - SrokNh)</a></h3>
       <p>A high-performance, mobile-first rental housing platform connecting tenants, students, and landlords across all <b>25 provinces in Cambodia</b> 🇰🇭.</p>
       <ul>
-        <li><b>Front-end & Architecture:</b> Built with <b>Nuxt 4</b>, <b>Vue 3</b>, and <b>TypeScript</b> (strict mode) on Nitro Server</li>
-        <li><b>Database & Storage:</b> <b>Supabase</b> (PostgreSQL with Row Level Security & image bucket storage)</li>
-        <li><b>Auth & Security:</b> Seamless 1-click Google OAuth & session management via <b>Clerk</b></li>
-        <li><b>Maps & Exploration:</b> Interactive map search & pin selection powered by <b>Leaflet</b> & <b>CARTO</b> basemaps</li>
-        <li><b>Bilingual:</b> Native Khmer (<code>km</code>) & English (<code>en</code>) with automatic SEO localization</li>
-        <li><b>My Contributions:</b> Responsive UI/UX, user profile view/edit, listing location mapping, and core rental calculation features</li>
+        <li><b>Stack:</b> Nuxt 4, Vue 3, strict TypeScript & Supabase (PostgreSQL + RLS)</li>
+        <li><b>Features:</b> Leaflet + CARTO interactive maps, Clerk OAuth & Khmer/English localization</li>
+        <li><b>Contributions:</b> Mobile-first UI/UX, user profiles, and listing location mapping</li>
       </ul>
       <p>
         <a href="https://sroknh.com">
@@ -178,11 +175,9 @@
       <h3>💸 <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/">Personal Finance Tracker</a></h3>
       <p>A modern full-stack financial dashboard for tracking income and expenses, monitoring category budgets, and analyzing cash flow trends.</p>
       <ul>
-        <li><b>Front-end & Architecture:</b> Built with <b>Next.js 16 (App Router)</b>, <b>React 19</b>, and <b>Tailwind CSS v4</b></li>
-        <li><b>Database & Auth:</b> <b>Neon Serverless Postgres</b> paired with <b>Prisma 7</b>; cookie session security via <b>Better Auth</b></li>
-        <li><b>Interactive Visualizations:</b> Custom SVG balance area charts with dynamic range switching (7D to 1Y) and category expense donut charts</li>
-        <li><b>Budgets & Alerts:</b> User-specific spending caps, real-time warning indicators (80%+ threshold), and notification dropdowns</li>
-        <li><b>Data Management:</b> Paginated transaction history with instant optimistic actions and CSV export</li>
+        <li><b>Stack:</b> Next.js 16 (App Router), React 19, Tailwind CSS v4, Prisma 7 & Neon Postgres</li>
+        <li><b>Features:</b> Custom SVG balance & donut charts, budget caps with 80%+ threshold alerts</li>
+        <li><b>Data & Security:</b> Optimistic transaction updates, CSV export, and Better Auth session security</li>
       </ul>
       <p>
         <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/">
