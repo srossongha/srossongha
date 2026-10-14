@@ -86,14 +86,10 @@
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-<<<<<<< HEAD
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4=&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-=======
-        <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
->>>>>>> 0c23a7d3289690c52dd36e57bbe9d109033b4d25
         <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" alt="Vue" />
         <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt" />
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
@@ -126,11 +122,7 @@
         <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" />
         <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" alt="Railway" />
       </p>
-<<<<<<< HEAD
-      <p><b>Also exploring:</b> Three.js</p>
-=======
-      <p><b>Also exploring:</b> Python, Java, Three.js and Tres.js blender*</p>
->>>>>>> 0c23a7d3289690c52dd36e57bbe9d109033b4d25
+      <p><b>Also exploring:</b> Three.js, Tres.js, Blender*</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/killua-lightning.gif" width="260" alt="Killua Godspeed">
