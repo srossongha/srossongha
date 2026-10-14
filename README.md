@@ -175,10 +175,47 @@
       <img src="assets/ai-hoshino-stars.gif" width="260" alt="Ai Hoshino Stars">
     </td>
     <td width="65%" valign="top">
-      <h3>💸 <a href="https://github.com/srossongha/personal-finance-tracker">Personal Finance Tracker</a></h3>
-      <p>A TypeScript app for tracking monthly spending, built to learn React and Next.js coming from Vue and Nuxt.</p>
-      <h3>🌐 <a href="https://portfolio.sanghakh122333.workers.dev/">Portfolio</a></h3>
-      <p>My personal showcase site, built to demonstrate my design skills, responsive components, and interactive web projects.</p>
+      <h3>💸 <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/">Personal Finance Tracker</a></h3>
+      <p>A modern full-stack financial dashboard for tracking income and expenses, monitoring category budgets, and analyzing cash flow trends.</p>
+      <ul>
+        <li><b>Front-end & Architecture:</b> Built with <b>Next.js 16 (App Router)</b>, <b>React 19</b>, and <b>Tailwind CSS v4</b></li>
+        <li><b>Database & Auth:</b> <b>Neon Serverless Postgres</b> paired with <b>Prisma 7</b>; cookie session security via <b>Better Auth</b></li>
+        <li><b>Interactive Visualizations:</b> Custom SVG balance area charts with dynamic range switching (7D to 1Y) and category expense donut charts</li>
+        <li><b>Budgets & Alerts:</b> User-specific spending caps, real-time warning indicators (80%+ threshold), and notification dropdowns</li>
+        <li><b>Data Management:</b> Paginated transaction history with instant optimistic actions and CSV export</li>
+      </ul>
+      <p>
+        <a href="https://personal-finance-tracker-asuna-6fb8.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-vercel.app-000000?logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/srossongha/personal-finance-tracker">
+          <img src="https://img.shields.io/badge/GitHub_Repo-personal--finance--tracker-181717?logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+        <img src="https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
+        <img src="https://img.shields.io/badge/Prisma_7-2D3748?logo=prisma&logoColor=white" alt="Prisma 7" />
+        <img src="https://img.shields.io/badge/Neon_Postgres-00E599?logo=neon&logoColor=black" alt="Neon Postgres" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🌐 <a href="https://portfolio.sanghakh122333.workers.dev/">Portfolio Website</a></h3>
+      <p>Personal showcase site demonstrating front-end craftsmanship, responsive components, creative interactions, and project highlights.</p>
+      <p>
+        <a href="https://portfolio.sanghakh122333.workers.dev/">
+          <img src="https://img.shields.io/badge/Live_Site-portfolio.sanghakh122333.workers.dev-4E46E5?logo=cloudflare&logoColor=white" alt="Portfolio Live Site" />
+        </a>
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+        <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?logo=googlechrome&logoColor=white" alt="Responsive Design" />
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/frieren-kiss.gif" width="240" alt="Frieren Sending Kiss">
     </td>
   </tr>
 </table>
