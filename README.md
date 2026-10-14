@@ -44,11 +44,11 @@
 
 ## 💼 Experience & Education
 
-| Role | Organization | Period |
-| :--- | :--- | :--- |
-| **Front-end Intern** | **T.O Group** | Aug 2026 – Present |
-| **Front-end Intern** | **EKYC Solution Co., Ltd.** | May 2026 – Aug 2026 |
-| **Computer Science Student** | **Institute of Technology of Cambodia (ITC)** | 2025 – Present |
+| Role                         | Organization                                  | Period              |
+| :--------------------------- | :-------------------------------------------- | :------------------ |
+| **Front-end Intern**         | **T.O Group**                                 | Aug 2026 – Present  |
+| **Front-end Intern**         | **EKYC Solution Co., Ltd.**                   | May 2026 – Aug 2026 |
+| **Computer Science Student** | **Institute of Technology of Cambodia (ITC)** | 2025 – Present      |
 
 <p align="center">
   <img src="assets/Tired%20Wednesday%20Morning%20GIF.gif" width="420" alt="Late night coding grind"><br>
@@ -60,6 +60,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ3LjYxNyA5OC4xMnMtNC43NjcgMi43NzQgMy4zOTcgMy43MWM5Ljg5MiAxLjEzIDE0Ljk0Ny45NjggMjUuODQ1LTEuMDkyIDAgMCAyLjg3MSAxLjc5NSA2Ljg3MyAzLjM1MS0yNC40MzkgMTAuNDctNTUuMzA4LS42MDctMzYuMTE1LTUuOTY5em0tMi45ODgtMTMuNjY1cy01LjM0OCAzLjk1OSAyLjgyMyA0LjgwNWMxMC41NjcgMS4wOTEgMTguOTEgMS4xOCAzMy4zNTQtMS42IDAgMCAxLjk5MyAyLjAyNSA1LjEzMiAzLjEzMS0yOS41NDIgOC42NC02Mi40NDYuNjgtNDEuMzA5LTYuMzM2eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNjkuODAyIDYxLjI3MWM2LjAyNSA2LjkzNS0xLjU4IDEzLjE3LTEuNTggMTMuMTdzMTUuMjg5LTcuODkxIDguMjY5LTE3Ljc3N2MtNi41NTktOS4yMTUtMTEuNTg3LTEzLjc5MiAxNS42MzUtMjkuNTggMCAuMDAxLTQyLjczMSAxMC42Ny0yMi4zMjQgMzQuMTg3eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTc2LjQ5MSAxLjU4N1M4OS40NTkgMTQuNTYzIDY0LjE4OCAzNC41MWMtMjAuMjY2IDE2LjAwNi00LjYyMSAyNS4xMy0uMDA3IDM1LjU1OS0xMS44MzEtMTAuNjczLTIwLjUwOS0yMC4wNy0xNC42ODgtMjguODE1QzU4LjA0MSAyOC40MiA4MS43MjIgMjIuMTk1IDc2LjQ5MSAxLjU4N3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUyLjIxNCAxMjYuMDIxYzIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTctMTEuNDM2IDAgMC0xLjU3MSA0LjAzMi0xOC41NzcgNy4yMzEtMTkuMTg2IDMuNjEyLTQyLjg1NCAzLjE5MS01Ni44ODcuODc0IDAgLjAwMSAyLjg3NSAyLjM4MSAxNy42NDcgMy4zMzF6Ii8+PC9zdmc+&logoColor=white" alt="Java" />
@@ -67,11 +68,12 @@
 </p>
 
 ### 🎨 Front-end
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4=&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" alt="Vue" />
@@ -83,6 +85,7 @@
 </p>
 
 ### ⚙️ Back-end & Data (Learning)
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
@@ -96,6 +99,7 @@
 </p>
 
 ### 🛠️ Tools & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
@@ -116,6 +120,7 @@
 ## 🚀 Featured Projects
 
 ### 🏠 [Roomie (ស្រុកខ្ញុំ - SrokNh)](https://sroknh.com)
+
 > A high-performance, mobile-first rental housing platform connecting tenants, students, and landlords across all **25 provinces in Cambodia** 🇰🇭.
 
 - **Stack:** Built with **Nuxt 4**, **Vue 3**, and **TypeScript** (strict mode) on Nitro Server
@@ -139,6 +144,7 @@
 ---
 
 ### 💸 [Personal Finance Tracker](https://github.com/srossongha/personal-finance-tracker)
+
 > A modern full-stack financial dashboard for tracking income and expenses, monitoring category budgets, and analyzing cash flow trends.
 
 - **Stack:** Built with **Next.js 16 (App Router)**, **React 19**, and **Tailwind CSS v4**
@@ -161,6 +167,7 @@
 ---
 
 ### 🌐 [Portfolio Website](https://portfolio.sanghakh122333.workers.dev/)
+
 > Personal showcase site demonstrating modern front-end craftsmanship, responsive components, creative interactions, and project highlights.
 
 <p>
@@ -177,7 +184,7 @@
 
 - 🎮 **Gamer since childhood:** Games taught me problem-solving, strategic thinking, and patience long before I wrote code.
 - 🏆 **Favorite Genres:** Action RPG, Souls-like, Metroidvania, Sandbox & Survival, 2-Player Co-op.
-- ⚔️ **Anime Fan:** *Sword Art Online* is my favorite, and Kirito is my main reference point. Also a big fan of *Black Clover*, *Sousou no Frieren*, *Death Note*, and *Kaguya-sama*.
+- ⚔️ **Anime Fan:** _Sword Art Online_ is my favorite, and Kirito is my main reference point. Also a big fan of _Black Clover_, _Sousou no Frieren_, _Death Note_, and _Kaguya-sama_.
 - 🌙 **Vibe:** Late-night coding sessions, co-op boss fights with friends, and hyper-focused development flow.
 
 <p align="center">
