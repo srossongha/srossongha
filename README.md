@@ -188,12 +188,20 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🌐 <a href="https://portfolio.sanghakh122333.workers.dev/">Portfolio Website</a></h3>
-      <p>Personal showcase site demonstrating front-end craftsmanship, responsive components, creative interactions, and project highlights.</p>
+      <h3>🎁 <a href="https://rewardos-landing-page.lywoo-sroeng.workers.dev/">RewardOS Landing Page</a></h3>
+      <p>Modern production marketing & product landing page for <b>RewardOS</b> (customer loyalty platform), built during my internship at <b>EKYC Solution Co., Ltd.</b>.</p>
+      <ul>
+        <li><b>Stack:</b> Built with <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b> via OpenNext</li>
+        <li><b>Deployment:</b> High-performance edge serverless deployment on <b>Cloudflare Workers</b></li>
+        <li><b>Contributions:</b> Business growth section, CMS-powered FAQ, and responsive UI components</li>
+      </ul>
       <p>
-        <a href="https://portfolio.sanghakh122333.workers.dev/"><img src="https://img.shields.io/badge/Live_Site-portfolio.sanghakh122333.workers.dev-4E46E5?logo=cloudflare&logoColor=white" alt="Portfolio Live Site" /></a>
+        <a href="https://rewardos-landing-page.lywoo-sroeng.workers.dev/"><img src="https://img.shields.io/badge/Live_Site-rewardos--landing--page-F38020?logo=cloudflare&logoColor=white" alt="RewardOS Live Site" /></a>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-        <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?logo=googlechrome&logoColor=white" alt="Responsive Design" />
+        <img src="https://img.shields.io/badge/EKYC_Solutions-0052CC?logo=googlechrome&logoColor=white" alt="EKYC Solutions" />
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
