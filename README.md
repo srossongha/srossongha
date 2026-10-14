@@ -141,14 +141,27 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🏠 <a href="https://sroknh.com">Roomie (ស្រុកខ្ញុំ)</a></h3>
-      <p>A room-rental platform for Cambodia, built with a team.</p>
+      <h3><img src="assets/roomie_icon.png" width="28" valign="middle" alt="Roomie icon" /> <a href="https://sroknh.com">Roomie (ស្រុកខ្ញុំ - SrokNh)</a></h3>
+      <p>A high-performance, mobile-first rental housing platform connecting tenants, students, and landlords across all <b>25 provinces in Cambodia</b> 🇰🇭.</p>
       <ul>
-        <li>Nuxt + Vue front-end with <b>shadcn-vue</b> components and <b>Pinia</b> state</li>
-        <li>English and Khmer language support</li>
-        <li>Auth with <b>Clerk</b>, data on <b>Supabase</b>, deployed on <b>Cloudflare Pages</b></li>
-        <li><b>My contribution:</b> UI, profile view/edit, listing location, and scientific calculator feature</li>
+        <li><b>Front-end & Architecture:</b> Built with <b>Nuxt 4</b>, <b>Vue 3</b>, and <b>TypeScript</b> (strict mode) on Nitro Server</li>
+        <li><b>Database & Storage:</b> <b>Supabase</b> (PostgreSQL with Row Level Security & image bucket storage)</li>
+        <li><b>Auth & Security:</b> Seamless 1-click Google OAuth & session management via <b>Clerk</b></li>
+        <li><b>Maps & Exploration:</b> Interactive map search & pin selection powered by <b>Leaflet</b> & <b>CARTO</b> basemaps</li>
+        <li><b>Bilingual:</b> Native Khmer (<code>km</code>) & English (<code>en</code>) with automatic SEO localization</li>
+        <li><b>My Contributions:</b> Responsive UI/UX, user profile view/edit, listing location mapping, and core rental calculation features</li>
       </ul>
+      <p>
+        <a href="https://sroknh.com">
+          <img src="https://img.shields.io/badge/Live_Site-sroknh.com-00DC82?logo=googlechrome&logoColor=white" alt="Live Site" />
+        </a>
+        <img src="https://img.shields.io/badge/Nuxt_4-00DC82?logo=nuxt&logoColor=white" alt="Nuxt 4" />
+        <img src="https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white" alt="Clerk" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet" />
+      </p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/shinchan-kiss.gif" width="260" alt="Shinchan Sending Love">
